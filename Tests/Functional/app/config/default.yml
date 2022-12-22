@@ -1,0 +1,7 @@
+imports:
+    - { resource: framework.yml }
+    - { resource: services.yml }
+
+neo4j:
+  connections:
+    default: ~
