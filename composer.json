@@ -1,5 +1,5 @@
 {
-    "name": "sngularai/neo4j-bundle",
+    "name": "jpruden92/neo4j-bundle",
     "description": "Symfony integration for Neo4j",
     "type": "symfony-bundle",
     "keywords": ["neo4j"],
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "sngularai/neo4j-php-client": "^5.0",
+        "jpruden92/neo4j-php-client": "^5.0",
         "symfony/dependency-injection": " ^2.8.3 || ^3.0.3 || ^4.0 || ^5.0",
         "symfony/framework-bundle": "^2.8.32 || ^3.0 || ^4.0 || ^5.0",
         "symfony/http-kernel": "^2.8 || ^3.0 || ^4.0 || ^5.0",
